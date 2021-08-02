@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = egecakmak@hotmaÅil.com
+	name = Ege Cakmak
